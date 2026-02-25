@@ -1,3 +1,4 @@
+# Nombres de los mas acá 🗣🗣
 nombre = "Juan"
 amigo = "El Peralta"
 
